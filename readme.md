@@ -8,13 +8,13 @@ Welcome to AI Summarizer, your powerful Article Summarization Application built 
 ## Key Features
 AI Summarizer offers a range of features to enhance your summarization experience:
 
-- *OpenAI's GPT Model:* We leverage OpenAI's state-of-the-art GPT model to provide you with accurate and coherent summaries of articles.
+- *OpenAI's GPT Model:*  OpenAI's state-of-the-art GPT model to provide you with accurate and coherent summaries of articles.
 
 - *ReactJS and Vite:* The application is built using ReactJS and Vite, ensuring a fast and responsive user experience.
 
-- *Stunning UI/UX:* Our design team has crafted a beautiful and user-friendly interface with a touch of modern glass morphism, powered by Tailwind CSS.
+- *Stunning UI/UX:*  user-friendly interface with a touch of modern glass morphism, powered by Tailwind CSS.
 
-- *Advanced RTK Query API Requests:* We make use of Redux Toolkit Query (RTK Query) to perform advanced API requests that are triggered conditionally, ensuring efficient data retrieval.
+- *Advanced RTK Query API Requests:*  Use of Redux Toolkit Query (RTK Query) to perform advanced API requests that are triggered conditionally, ensuring efficient data retrieval.
 
 - *History Tracking:* AI Summarizer saves your summarization history using local storage, allowing you to revisit your past summaries effortlessly.
 
