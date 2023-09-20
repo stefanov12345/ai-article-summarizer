@@ -1,6 +1,5 @@
 # AI Summarizer - Your Article Summarization Tool
 
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
 
 ## Introduction
 Welcome to AI Summarizer, your powerful Article Summarization Application built with the cutting-edge OpenAI GPT model. With this application, you can quickly and effortlessly summarize lengthy articles, making information consumption faster and more efficient.
